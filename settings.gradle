@@ -1,0 +1,6 @@
+rootProject.name = 'lab2-4final'
+//rootProject.name = 'lab2-4final'
+include 'server'
+include 'common'
+include 'client'
+

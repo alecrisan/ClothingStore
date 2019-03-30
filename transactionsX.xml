@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><catalog>
+    <transaction id="1"><client>3,Joy,30,Silver</client><date>13/03/2019</date><items>1,skirt,Marinna,80;3,pants,Joe,30</items><total>110</total></transaction>
+    
+    <transaction id="3"><client>2,Anitta,25,Black</client><date>19/03/2019</date><items>1,skirt,Marinna,80;3,pants,Joe,30</items><total>110</total></transaction>
+    <transaction id="4"><client>6,Becky,32,Black</client><date>20/3/2019</date><items>5,t-shirt,Karl,100;3,pants,Joe,30;</items><total>130</total></transaction></catalog>

@@ -1,0 +1,4 @@
+2,skirt,Mary,20
+3,pants,Joe,30
+4,blouse,Bob,50
+5,top,John,20

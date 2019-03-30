@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><catalog>
+    <item id="1"><name>skirt</name><designer>Marinna</designer><price>80</price></item>
+    
+    <item id="3"><name>pants</name><designer>Joe</designer><price>30</price></item>
+    <item id="4"><name>dress</name><designer>Joanna</designer><price>80</price></item>
+<item id="5"><name>t-shirt</name><designer>Karl</designer><price>100</price></item></catalog>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><catalog>
+    
+    <client id="2"><name>Anitta</name><age>26</age><membership>Black</membership></client>
+    <client id="3"><name>Joy</name><age>30</age><membership>Silver</membership></client>
+    <client id="4"><name>Henry</name><age>23</age><membership>Platinum</membership></client>
+    <client id="5"><name>Jennifer</name><age>25</age><membership>Platinum</membership></client>
+<client id="6"><name>Becky</name><age>32</age><membership>Black</membership></client></catalog>

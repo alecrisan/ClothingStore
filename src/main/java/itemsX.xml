@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<catalog>
+    <item>
+        <id>1</id>
+        <name>skirt</name>
+        <designer>Mary</designer>
+        <price>20</price>
+    </item>
+    <item>
+        <id>2</id>
+        <name>dress</name>
+        <designer>Anna</designer>
+        <price>40</price>
+    </item>
+    <item>
+        <id>3</id>
+        <name>pants</name>
+        <designer>Joe</designer>
+        <price>30</price>
+    </item>
+</catalog>
